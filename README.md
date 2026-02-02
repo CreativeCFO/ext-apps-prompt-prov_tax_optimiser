@@ -2,7 +2,7 @@ This is a structured prompt for Company vs SBC vs personal tax optimisation in S
 
 Copy the full prompt into Claude, it's been tested with Opus 4.5
 
-Disclaimer: Whilst every time we've run this we've got the right core tax calculations, there are often elements of the answer that need to be checked and tweaked (e.g. the order of the optimisation in a table might have been displayed incorrectly).Whilst we have tweaked the prompt several times to improve quality, if you don't understand any part of the calculation, check with a professional!
+Disclaimer: Whilst every time we've run this we've got the right core tax calculations, there are often elements of the answer that need to be checked and tweaked (e.g. the order of the optimisation in a table might have been displayed incorrectly). We have tweaked the prompt several times to improve quality, if you don't understand any part of the calculation, check with a professional!
 
 To run the analysis, you need three things:
 
